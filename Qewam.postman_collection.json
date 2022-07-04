@@ -38,15 +38,15 @@
 					]
 				},
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/invoices",
+					"raw": "http://0.0.0.0:80/api/invoices",
 					"protocol": "http",
 					"host": [
-						"127",
 						"0",
 						"0",
-						"1"
+						"0",
+						"0"
 					],
-					"port": "8000",
+					"port": "80",
 					"path": [
 						"api",
 						"invoices"
@@ -61,15 +61,15 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://127.0.0.1:8000/api/invoices/1",
+					"raw": "http://0.0.0.0:80/api/invoices/1",
 					"protocol": "http",
 					"host": [
-						"127",
 						"0",
 						"0",
-						"1"
+						"0",
+						"0"
 					],
-					"port": "8000",
+					"port": "80",
 					"path": [
 						"api",
 						"invoices",
